@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b493924-addf-4104-9b46-b197b464ae37" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/lib/args4j-2.0.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/arrow_undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/bgitem.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/bgmenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/lib/commons-io-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/lib/commons-lang3-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/lib/commons-math3-3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/dark_pixel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/donate-10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/donate-25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/donate-50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/donate-other.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/lib/guava-14.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/how-smartsprites-works.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/li.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/quote.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/lib/smartsprites-0.2.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/vert-ie6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/img/vert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/README.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/css/default-sprite.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/download.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gulp-smartsprites.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/doc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/smartsprites.LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/smartsprites.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/smartsprites.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smartsprites-0.2.9/smartsprites.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="gulp-smartsprites.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="gulp-smartsprites" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="poppyLuo" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gulp-smartsprites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gulp-smartsprites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gulp-smartsprites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b493924-addf-4104-9b46-b197b464ae37" name="Default" comment="" />
+      <created>1461832448819</created>
+      <option name="number" value="Default" />
+      <updated>1461832448819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928678" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32874355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gulp-smartsprites" />
+    <option name="LAST_COMMIT_MESSAGE" value="gulp-smartsprites" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
