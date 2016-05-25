@@ -1,1 +1,1 @@
-# gulp-smartsprite
+# gulp-smartsprites
