@@ -1,11 +1,8 @@
 {
   "name": "gulp-smartsprites",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "description": "the util for sprites",
   "main": "index.js",
-  "files": [
-    "index.js"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poppyLuo/gulp-smartsprite.git"
+    "url": "git+https://github.com/poppyLuo/gulp-smartsprites.git"
   },
   "keywords": [
     "sprite"
@@ -22,7 +19,7 @@
   "author": "poppy_luo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/poppyLuo/gulp-smartsprite/issues"
+    "url": "https://github.com/poppyLuo/gulp-smartsprites/issues"
   },
-  "homepage": "https://github.com/poppyLuo/gulp-smartsprite#readme"
+  "homepage": "https://github.com/poppyLuo/gulp-smartsprites#readme"
 }

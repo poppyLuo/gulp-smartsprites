@@ -1,6 +1,6 @@
 /**
  * @file: smartSprite
- * @author: luowenwen02(luowenwen02@baidu.com)
+ * @author: luowenwen02
  * @since 2016-03-15
  */
 
@@ -24,10 +24,10 @@ function gulpSmartsprites(opt, cb) {
     var cmdPath = '';
 
     if (osPlatform == 'win32') {
-        cmdPath = opt.smartspritePath || '"' + path.resolve('') + '/node_modules/gulp-smartsprites/smartsprites-0.2.9/smartsprites.cmd"';
+        cmdPath = opt.smartspritePath || path.resolve( __dirname + '/smartsprites-0.2.9/smartsprites.cmd');
     }
     else {
-        cmdPath = opt.smartspritePath || '' + path.resolve('') + '/node_modules/gulp-smartsprites/smartsprites-0.2.9/smartsprites.sh';
+        cmdPath = opt.smartspritePath || path.resolve( __dirname + '/smartsprites-0.2.9/smartsprites.sh');
 
     }
     var rootPath = path.resolve(opt.rootPath);
